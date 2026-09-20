@@ -1,11 +1,7 @@
-# ⌨️ Typing Battle
-
+⌨️ Typing Battle
 A fun and interactive typing speed game built with HTML, CSS, and vanilla JavaScript.
-
 Test how fast and accurately you can type before the time runs out! 🎯
-
-## 🎮 Features
-
+🎮 Features
 - ⏱️ 30-second typing challenge
 - 🎯 Easy, Medium, and Hard difficulty levels
 - ❤️ 3 lives
@@ -17,32 +13,22 @@ Test how fast and accurately you can type before the time runs out! 🎯
 - 🏆 High score saved in the browser
 - 🔄 Play Again option
 - 📱 Responsive design for desktop and mobile
-
-## 🛠️ Technologies Used
-
+🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 - LocalStorage
-
-## 🚀 How to Play
-
+🚀 How to Play
 1. Choose a difficulty level.
-2. Click **Start Battle**.
+2. Click Start Battle.
 3. Type the displayed words as quickly and accurately as possible.
 4. Correct words increase your score and combo.
 5. Wrong words cost you a life.
 6. Try to get the highest score before the timer reaches zero!
-
-## 💾 Data Storage
-
-The game uses **LocalStorage** to save your high score.
-
+💾 Data Storage
+The game uses LocalStorage to save your high score.
 This means your high score is saved in your browser, but it is not stored in an online database.
-
-## 📂 Project Structure
-
-```text
+📂 Project Structure
 Typing-Battle-V2/
 │
 ├── index.html
@@ -62,8 +48,8 @@ Some features I may add in future versions:
 This project was created as a beginner-friendly coding project while learning web development and building projects with AI-assisted coding.
 ⭐ If you enjoyed the game, feel free to try it!
 
-### One tiny thing 👀
 
-When creating the GitHub repository, **tick "Add a README file"**, then paste the content above into the README **after the repository is created**.
 
-And honestly, keep the **“Future Improvements”** section — it makes your project look much more like an actual developing project rather than just a practice file. 😭🔥
+
+
+  1/2
